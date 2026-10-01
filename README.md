@@ -24,7 +24,7 @@ With the following command the angular-cli will be installed globally in your ma
 
 We can install the master branch using the following commands:
 
-    git clone https://github.com/rahulsahay19/rxjs-store.git
+    git clone https://github.com/ramonaoldf/rxjs-store.git
     
 This repository is made of several separate npm modules, that are installable separately. For example, to run the au-input module, we can do the following:
     
